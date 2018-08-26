@@ -18,9 +18,7 @@
             "Ocenaudio"
         ]
     ],
-	"persist": [
-        "settings",
-	],
+	"persist": "settings",
     "checkver": {
         "re": "ocenaudio ([\\d.]+)"
     },
