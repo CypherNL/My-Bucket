@@ -5,8 +5,8 @@
     "notes": ".Net framework needs to be installed to use this program.",
     "url": "http://www.syncfolders.elementfx.com/setupfile/SyncFoldersPortable.zip",
     "bin": "SyncFolders.exe",
-    "hash": "B28FA9EC36494D307ECF2517444C49CC08A4C3E0F5E35C7D5069F15AF9D2B941",
-    "persistent": "User Data",
+    "hash": "b28fa9ec36494d307ecf2517444c49cc08a4c3e0f5e35c7d5069f15af9d2b941",
+    "persist": "User Data",
     "shortcuts": [
         [
             "SyncFolders.exe",
