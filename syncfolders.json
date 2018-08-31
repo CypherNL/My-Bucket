@@ -1,0 +1,14 @@
+{
+    "homepage": "http://www.syncfolders.elementfx.com/",
+    "license": "Freeware",
+    "version": "3.4.471",
+    "notes": ".Net framework needs to be installed to use this program.",
+    "url": "http://www.syncfolders.elementfx.com/setupfile/SyncFoldersPortable.zip",
+    "bin": "SyncFolders.exe",
+    "shortcuts": [
+        [
+            "SyncFolders.exe",
+            "SyncFolders"
+        ]
+    ]
+}
