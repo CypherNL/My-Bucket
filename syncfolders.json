@@ -17,7 +17,7 @@
         "url": "http://www.syncfolders.elementfx.com/setupfile/SyncFolders_Version_Information.xml",
         "re": "<LatestVersion>([\\d.]+)</LatestVersion>"
     },
-    "autoupdate": (
+    "autoupdate": {
         "url": "http://www.syncfolders.elementfx.com/setupfile/SyncFoldersPortable.zip"
-    )
+    }
 }
