@@ -24,7 +24,7 @@
         ]
     ],
     "post_install": [
-        "regedit.exe /S Manual_Gamma_Registry_Fix.reg"
+        "regedit.exe /S $dir/Manual_Gamma_Registry_Fix.reg"
     ],
     "checkver": "github",
     "autoupdate": {
