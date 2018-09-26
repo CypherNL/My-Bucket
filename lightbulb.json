@@ -1,0 +1,34 @@
+{
+    "version": "1.6.4",
+    "description": "LightBulb is an application that reduces eyestrain produced by staring at a computer screen when working late hours",
+    "homepage": "https://github.com/Tyrrrz/LightBulb",
+    "license": {
+        "identifier": "GPL-3.0-only",
+        "url": "https://github.com/Tyrrrz/LightBulb/blob/master/License.txt"
+    },
+    "notes": [
+        "If you get a pop-up to install a registry file, click on Yes. This updates the computer's gamma range and is only needed once. After installing the registry file, restart your computer. Make sure .NET Framework 4.5.2 is installed to use LightBulb."
+    ],
+    "url": "https://github.com/Tyrrrz/LightBulb/releases/download/1.6.4/LightBulb-Portable.zip",
+    "hash": "847053924ab64a872e01d70070d2a6ece816fe0e276003038ba9148c69d9896c",
+    "extract_dir": "LightBulb",
+    "persist": [
+        "Configuration.dat"
+    ],
+    "bin": [
+        "LightBulb_Portable.bat"
+    ],
+    "shortcuts": [
+        [
+            "LightBulb_Portable.bat",
+            "LightBulb"
+        ]
+    ],
+    "post_install": [
+        "Manual_Gamma_Registry_Fix.reg"
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Tyrrrz/LightBulb/releases/download/$version/LightBulb-Portable.zip"
+    }
+}
