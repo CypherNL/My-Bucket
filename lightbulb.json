@@ -8,7 +8,7 @@
         "url": "https://github.com/Tyrrrz/LightBulb/blob/master/License.txt"
     },
     "notes": [
-        "After installation, a registry key has been added to update the computer's gamma range. This is needed to make the program work. Please restart your computer to use the program. Make sure .NET Framework version 4.5.2 or later is installed."
+        "After installation, a registry key has been added to update the computer's gamma range. This is needed to make the program work. Please restart your computer to use this program. Make sure .NET Framework version 4.5.2 or later is installed."
     ],
     "url": "https://github.com/Tyrrrz/LightBulb/releases/download/1.6.4/LightBulb-Portable.zip",
     "hash": "847053924ab64a872e01d70070d2a6ece816fe0e276003038ba9148c69d9896c",
