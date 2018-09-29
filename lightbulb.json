@@ -6,7 +6,7 @@
         "identifier": "GPL-3.0-only",
         "url": "https://github.com/Tyrrrz/LightBulb/blob/master/License.txt"
     },
-    "notes": ".NET Framework version 4.5.2 or higher is required to run this program. If the program doesn't change the gamma under 6600K, run the file Manual_Gamma_Registry_Fix.reg in the program's directory (scoop/apps/lightbulb/current). Use the shortcut or the file LightBulb_Portable.bat in the program's directory to use start LightBulb.",
+    "notes": ".NET Framework version 4.5.2 or higher is required to run this program. If the gamma doesn't change 6600K, run the Manual_Gamma_Registry_Fix.reg registry key in the program's directory (scoop/apps/lightbulb/current). Don't run LightBulb.exe when you're in that folder. Use LightBulb_Portable.bar or the shortcut to use this program.",
     "url": "https://github.com/Tyrrrz/LightBulb/releases/download/1.6.4/LightBulb-Portable.zip",
     "hash": "847053924ab64a872e01d70070d2a6ece816fe0e276003038ba9148c69d9896c",
     "persist": [
