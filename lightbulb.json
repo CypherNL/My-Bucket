@@ -6,7 +6,7 @@
         "identifier": "GPL-3.0-only",
         "url": "https://github.com/Tyrrrz/LightBulb/blob/master/License.txt"
     },
-    "notes": "A registry key has been added to update the computer's gamma range. This is needed to make the program work. Please restart your computer and make sure .NET Framework version 4.5.2 or later is installed to use this program. You need to start the program using the shortcut of the file LightBulb_Portable.bat in the folder of the program.",
+    "notes": ".NET Framework version 4.5.2 or higher is required to run this program. If the program doesn't change the gamma under 6600K, run the file Manual_Gamma_Registry_Fix.reg in the program's directory (scoop/apps/lightbulb/current). Use the shortcut or the file LightBulb_Portable.bat in the program's directory to use start LightBulb.",
     "url": "https://github.com/Tyrrrz/LightBulb/releases/download/1.6.4/LightBulb-Portable.zip",
     "hash": "847053924ab64a872e01d70070d2a6ece816fe0e276003038ba9148c69d9896c",
     "persist": [
@@ -22,9 +22,6 @@
             "",
             "LightBulb.exe"
         ]
-    ],
-    "post_install": [
-        "regedit.exe /S $dir/Manual_Gamma_Registry_Fix.reg"
     ],
     "checkver": "github",
     "autoupdate": {
