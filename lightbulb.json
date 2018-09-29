@@ -23,7 +23,7 @@
             "LightBulb_Portable.bat",
             "LightBulb",
 			"",
-			"$dir/LightBulb.exe"
+			"LightBulb.exe"
         ]
     ],
     "post_install": [
