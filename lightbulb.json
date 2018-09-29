@@ -19,8 +19,8 @@
         [
             "LightBulb_Portable.bat",
             "LightBulb",
-			"",
-			"LightBulb.exe"
+            "",
+            "LightBulb.exe"
         ]
     ],
     "post_install": [
