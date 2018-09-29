@@ -10,7 +10,7 @@
     "url": "https://github.com/Tyrrrz/LightBulb/releases/download/1.6.4/LightBulb-Portable.zip",
     "hash": "847053924ab64a872e01d70070d2a6ece816fe0e276003038ba9148c69d9896c",
     "pre_install": [
-        "   #Create placeholder files",
+        "   #Create placeholder file",
         "function CreateFile([String] $file, [String] $content = $null) {",
         "    if(!(Test-Path \"$persist_dir\\$file\")) {",
         "        Write-Host \"Create placeholder for shadowsocksr-csharp: $file\"",
