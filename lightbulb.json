@@ -21,7 +21,9 @@
     "shortcuts": [
         [
             "LightBulb_Portable.bat",
-            "LightBulb"
+            "LightBulb",
+			"",
+			"$dir/LightBulb.exe"
         ]
     ],
     "post_install": [
