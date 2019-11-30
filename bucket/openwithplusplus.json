@@ -4,7 +4,7 @@
     "homepage": "https://github.com/stax76/OpenWithPlusPlus",
     "url": "https://github.com/stax76/OpenWithPlusPlus/releases/download/3.0/OpenWithPP-3.0.0.0.7z",
     "hash": "6db76780189996c3b492bbaf3322e44990ce6178cdd0d5efb88a972b326f8c94",
-    "extract_dir": "openwithplusplus",
+    "extract_to": "openwithplusplus",
     "shortcuts": [
         [
             "OpenWithPPGUI.exe",
