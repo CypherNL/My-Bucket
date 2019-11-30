@@ -1,0 +1,18 @@
+{
+    "version": "3.0",
+    "description": "Open with++ is a shell extension which adds a customizable context menu to the Windows File Explorer. It allows to execute a command line on the selected files and folders. A common task is to open files with an application like using the regular Open with menu.",
+    "homepage": "https://github.com/stax76/OpenWithPlusPlus",
+    "url": "https://github.com/stax76/OpenWithPlusPlus/releases/download/3.0/OpenWithPP-3.0.0.0.7z",
+    "hash": "",
+    "extract_dir": "openwithplusplus",
+    "shortcuts": [
+        [
+        "OpenWithPPGUI.exe",
+        "Open with++"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/stax76/OpenWithPlusPlus/releases/download/3.0/OpenWithPP-$version.0.0.7z"
+    }
+}
