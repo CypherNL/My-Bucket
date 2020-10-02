@@ -15,7 +15,6 @@
             "TV Rename"
         ]
     ],
-    "innosetup": true,
     "checkver": {
         "github": "https://github.com/TV-Rename/tvrename"
     },
