@@ -12,6 +12,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/stax76/OpenWithPlusPlus/releases/download/3.0/OpenWithPP-$version.0.0.7z"
+        "url": "https://github.com/stax76/OpenWithPlusPlus/releases/download/$version/OpenWithPP-$version.7z"
     }
 }
