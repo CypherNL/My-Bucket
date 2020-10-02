@@ -15,6 +15,7 @@
             "TV Rename"
         ]
     ],
+    "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\" -Force -Recurse",
     "checkver": {
         "github": "https://github.com/TV-Rename/tvrename"
     },
