@@ -19,6 +19,6 @@
         "github": "https://github.com/TV-Rename/tvrename"
     },
     "autoupdate": {
-        "url": "https://github.com/TV-Rename/tvrename/releases/download/$version/TVRename-$version.exe"
+        "url": "https://github.com/TV-Rename/tvrename/releases/download/$version/TVRename-$version.exe#/dl.7z"
     }
 }
